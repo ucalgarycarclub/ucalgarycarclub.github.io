@@ -4,7 +4,7 @@ bio:                '"Too oozrìi naʼiidaäʼii nałʼin"'
 description:        "IBA supports and promotes Indigenous involvement within business."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo v2 trimmed smaller.png'
+logo:               'assets/img/logo.png'
 background:         https://i.ibb.co/qxk8Y1b/background3-JPG.jpg
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US

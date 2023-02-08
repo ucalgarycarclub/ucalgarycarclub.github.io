@@ -5,11 +5,9 @@ date:   2023-02-08
 excerpt: "Come show off your ride!"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- meets
+- events
+- recurring
 comments: true
 ---
 

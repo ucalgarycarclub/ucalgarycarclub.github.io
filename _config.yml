@@ -1,11 +1,11 @@
 # Site
 title:              Indigenous Business Association
-bio:                '"Too oozrìi naʼiidaäʼii nałʼin"'
-description:        "IBA supports and promotes Indigenous involvement within business."
+bio:                'A club for automotive enthusiasts in Calgary, AB'
+description:        "Membership is open to anyone with a passion for cars."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/uccv2.png'
-background:         https://i.ibb.co/qxk8Y1b/background3-JPG.jpg
+background:         https://www.motortrend.com/uploads/2022/04/japanese-cruise-in-nissan-datsun-corral.jpg
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://ucalgarycarclub.github.io/

@@ -5,8 +5,8 @@ date:   2023-02-08
 excerpt: "Come show off your ride!"
 project: true
 tag:
-- meets
-- events
+- meet
+- event
 - recurring
 comments: true
 ---

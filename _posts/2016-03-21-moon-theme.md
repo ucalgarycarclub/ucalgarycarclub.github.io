@@ -18,7 +18,7 @@ comments: true
 	<figcaption><a href="https://www.instagram.com/p/CoTlaO6r3bT/" title="UCC's first meet!">UCC's first meet!</a>.</figcaption>
 </figure>
 
-<center><b>IBA</b> Come show off your ride!</center>
+<center>Come show off your ride!</center>
      
 Meets start at 5pm and are located at the SW corner of the Market Mall parking lot.
 

@@ -4,11 +4,8 @@ title:  "First Meet!"
 date:   2023-02-5
 excerpt: "Just had our first meet on Feb 5."
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- meet
+- past event
 comments: true
 ---
 

@@ -14,7 +14,7 @@ comments: true
 ---
 
 <figure>
-	<a href="https://instagram.fyyc2-1.fna.fbcdn.net/v/t51.2885-15/329006306_3003515519943703_4290132631672650609_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fyyc2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=4q6kGtsLGzIAX9DZqZM&tn=UUpSpVLSz4GRtktj&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfD6WPvaB7WgYQceRPU4ICVyvyIeGwsST5DNeYfnYXRqOQ&oe=63E92772&_nc_sid=8fd12b"><img src="https://www.instagram.com/p/CoTlaO6r3bT/"></a>
+	<a href="https://i.ibb.co/MMwMT7h/first-meet.jpg"><img src="https://www.instagram.com/p/CoTlaO6r3bT/"></a>
 	<figcaption><a href="https://www.instagram.com/p/CoTlaO6r3bT/" title="UCC's first meet!">UCC's first meet!</a>.</figcaption>
 </figure>
 

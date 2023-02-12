@@ -4,7 +4,7 @@ bio:                'A club for automotive enthusiasts in Calgary, AB'
 description:        "Membership is open to anyone with a passion for cars."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/uccv2.png'
+logo:               'assets/img/UAC Logo.png'
 background:         https://www.motortrend.com/uploads/2022/04/japanese-cruise-in-nissan-datsun-corral.jpg
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US

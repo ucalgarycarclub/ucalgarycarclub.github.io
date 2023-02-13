@@ -1,17 +1,17 @@
 ---
 layout: page
-title: About UCC
+title: About UAC
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center>Hi and welcome to the UCalgary Car Club (UCC)!</center>
+<center>Hi and welcome to the UCalgary Automotive Club (UAC)!</center>
 
 ## Who are we?
-There is a large car community both on campus and citywide, yet only a few dedicated car clubs, many that only meet in the summer. That’s where we come in! UCC will be hosting weekly meets/events all academic year long.
+There is a large car community both on campus and citywide, yet only a few dedicated car clubs, many that only meet in the summer. That’s where we come in! UAC will be hosting weekly meets/events all academic year long.
 
-## How do I join UCC?
+## How do I join UAC?
 To apply for membership, simply message us with your name and email and that’s it, 100% free.
 
 Membership gives you exclusive access on events, raffles, prizes, and more throughout the year. If you’d like to be featured on the page, send us a picture of you and your car. 

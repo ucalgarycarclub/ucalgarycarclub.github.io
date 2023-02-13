@@ -122,7 +122,6 @@ img {
 	border: 3px solid $white;
 	height: 400px;
 	width: 400px;
-	@media only screen and (max-width:300px)
 }
 .author-photo {
     background-color: $white;
@@ -142,7 +141,7 @@ figure {
     @include rounded(4px);
   }
   &.half {
-    @media only screen and (min-width: 62.5em) {
+    @media only screen and (min-width: 92.5em) {
       img {
         width: calc(50% - 4px);
         float: left;
@@ -155,7 +154,7 @@ figure {
     }
   }
   &.third {
-    @media only screen and (min-width: 62.5em) {
+    @media only screen and (min-width: 92.5em) {
       img {
         width: calc(33.3% - 6px);
         float: left;

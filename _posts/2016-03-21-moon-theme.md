@@ -13,7 +13,7 @@ comments: true
 
 <figure>
 	<a href="https://i.ibb.co/MMwMT7h/first-meet.jpg"><img src="https://i.ibb.co/MMwMT7h/first-meet.jpg"></a>
-	<figcaption><a href="https://www.instagram.com/p/CoTlaO6r3bT/" title="UCC's first meet!">UCC's first meet!</a></figcaption>
+	<figcaption><a href="https://www.instagram.com/p/CoTlaO6r3bT/" title="UAC's first meet!">UAC's first meet!</a></figcaption>
 </figure>
 
 <center>Come show off your ride!</center>

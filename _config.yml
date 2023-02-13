@@ -1,6 +1,6 @@
 # Site
-title:              UCalgary Car Club
-bio:                'A club for automotive enthusiasts in Calgary, AB'
+title:              UCalgary Automotive Club
+bio:                'A club for car enthusiasts in Calgary, AB'
 description:        "Membership is open to anyone with a passion for cars."
 reading_time:       true
 words_per_minute:   200
@@ -44,7 +44,7 @@ facebook:           username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           Indigenous-Business-Association-jb
 #xing:              username
-instagram:          iba_calgary
+instagram:          ucalgaryauto
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
